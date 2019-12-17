@@ -12,7 +12,7 @@ describe('Folders Endpoints', function() {
     before('make knex instance', () => {
         db = knex({
         client: 'pg',
-        connection: process.env.TEST_DB_URL,
+        connection: process.env.TTEST_DATABASE_URL,
     })
     app.set('db', db)
   })

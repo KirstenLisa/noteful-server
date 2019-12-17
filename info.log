@@ -62,3 +62,7 @@
 {"message":"Unauthorized request to path: /api/notes","level":"error"}
 {"message":"Unauthorized request to path: /api/notes/2","level":"error"}
 {"message":"Unauthorized request to path: /api/notes/2","level":"error"}
+{"message":"Unauthorized request to path: /api/notes","level":"error"}
+{"message":"Unauthorized request to path: /api/notes","level":"error"}
+{"message":"Unauthorized request to path: /api/notes/2","level":"error"}
+{"message":"Unauthorized request to path: /api/notes/2","level":"error"}
